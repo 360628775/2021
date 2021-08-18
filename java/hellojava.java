@@ -4,7 +4,7 @@ public class hellojava {
 	public static void main(String args[]) {
 		// Game2048 s = new Game2048();
 
-            System.out.println("123");
+            System.out.println("123123123123");
 		
 	}
 }
